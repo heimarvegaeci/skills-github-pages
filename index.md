@@ -1,7 +1,7 @@
 ---
 title: Welcome to my blog
 ---
-# 🏃‍♀️ **Mi Página de Running**
+# 🏃‍♀️ **Mi Página de Running BeDevOps**
 
 ## **Bienvenidos a mi Ruta Matutina**
 
@@ -21,7 +21,7 @@ title: Welcome to my blog
 ## **Emociones del Día**
 
 - 😄 Me sentí genial durante la carrera.
-- 😅 Un poco cansada al final, ¡pero valió la pena!
+- 😅 Un poco cansado al final, ¡pero valió la pena!
 
 ## **Consejo del Día**
 
