@@ -1,5 +1,5 @@
 ---
-title: "My furst blog en Github Pages"
+title: "MyFirstPages"
 date: 2024-04-11
 ---
 
